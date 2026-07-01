@@ -1,3 +1,6 @@
+![Banner](https://github.com/Abmaxxx/abmaxxx/raw/main/git.gif)
+
+
 # Hi 👋, I'm Abmaxx
 
 ### Junior DevOps Engineer | Docker • Kubernetes • Cloud-Native Infrastructure
