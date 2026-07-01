@@ -1,4 +1,5 @@
 ![Banner](https://github.com/Abmaxxx/abmaxxx/raw/main/git.gif)
+
 <h1 align="center">Hi 👋, I'm Abdullah from Pakistan 🇵🇰</h1>
 
 <h3 align="center">Junior DevOps Engineer | Docker • Kubernetes • Cloud-Native Infrastructure</h3>
@@ -19,6 +20,15 @@ Junior DevOps Engineer focused on containerization, container orchestration, and
 - ☸️ Deploying multi-tier applications on Kubernetes (Deployments, Services, PVC, Ingress)
 - ⚙️ Building and automating CI/CD pipelines with GitHub Actions
 - ☁️ Working with AWS cloud infrastructure
+
+---
+
+## 🚀 What I Do
+
+- 🐳 Containerize and orchestrate applications using Docker and Kubernetes
+- ☸️ Deploy multi-tier applications with full networking, persistent storage, and Ingress routing
+- ⚙️ Build CI/CD pipelines to automate application and infrastructure delivery
+- ☁️ Provision and manage cloud infrastructure on AWS
 
 ---
 
@@ -48,8 +58,4 @@ Full-stack chat application (React, Node.js, MongoDB) containerized with Docker 
 ## 🤝 Connect With Me
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/abmax)
-
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=abmaxxx&layout=compact&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=abmaxxx&theme=tokyonight&hide_border=true)
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/ab.72__)
