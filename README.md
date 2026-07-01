@@ -1,4 +1,4 @@
-![Banner](https://github.com/Abmaxxx/abmaxxx/raw/main/git.png)
+![Banner](https://github.com/Abmaxxx/abmaxxx/raw/main/git.gif)
 
 # Hi 👋, I'm Abmaxx
 
