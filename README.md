@@ -1,29 +1,21 @@
-![Banner](https://github.com/Abmaxxx/abmaxxx/raw/main/git.gif)
-
 # Hi 👋, I'm Abmaxx
 
 ### Junior DevOps Engineer | Docker • Kubernetes • Cloud-Native Infrastructure
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=Junior+DevOps+Engineer;Docker+%7C+Kubernetes+%7C+Linux;Building+Real+Infrastructure%2C+One+Cluster+at+a+Time)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=Junior+DevOps+Engineer;Docker+%7C+Kubernetes+%7C+Linux;Cloud-Native+Infrastructure)
 
 ---
 
 ## 👨‍💻 About Me
 
-Junior DevOps Engineer focused on containerization, container orchestration, and cloud-native infrastructure. I build real-world projects end-to-end — from writing Dockerfiles to deploying multi-tier applications on Kubernetes with full networking and persistent storage.
-
-Currently expanding into CI/CD pipelines and AWS cloud infrastructure.
-
 <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" />
 
----
+Junior DevOps Engineer focused on containerization, container orchestration, and cloud-native infrastructure.
 
-## 🛠️ Currently Working On
-
-- Multi-tier application deployments on Kubernetes (Deployments, Services, PVC, Ingress)
-- Docker multi-stage builds for optimized production images
-- CI/CD pipeline setup with GitHub Actions
-- AWS cloud infrastructure
+- 🐳 Containerizing applications with Docker (multi-stage builds, nginx, production-ready images)
+- ☸️ Deploying multi-tier applications on Kubernetes (Deployments, Services, PVC, Ingress)
+- ⚙️ Building and automating CI/CD pipelines with GitHub Actions
+- ☁️ Working with AWS cloud infrastructure
 
 ---
 
