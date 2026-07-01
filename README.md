@@ -18,7 +18,7 @@ Junior DevOps Engineer focused on containerization, container orchestration, and
 
 - 🐳 Containerizing applications with Docker (multi-stage builds, nginx, production-ready images)
 - ☸️ Deploying multi-tier applications on Kubernetes (Deployments, Services, PVC, Ingress)
-- ⚙️ Building and automating CI/CD pipelines with GitHub Actions
+- ⚙️ Building and automating CI/CD pipelines with Jenkins
 - ☁️ Working with AWS cloud infrastructure
 
 ---
